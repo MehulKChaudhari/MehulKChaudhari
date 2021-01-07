@@ -4,9 +4,9 @@
 
 ## Skills 
 
-![HTML5](https://img.icons8.com/color/96/000000/html-5.png "HTML5") ![CSS3](https://img.icons8.com/color/96/000000/css3.png "CSS3") ![javascript](https://img.icons8.com/color/96/000000/javascript.png "Javascript")  ![reactjs](https://img.icons8.com/plasticine/100/000000/react.png "ReactJs")  ![python](https://img.icons8.com/color/96/000000/python.png "Python") ![MySQl](https://img.icons8.com/ios/100/4a90e2/mysql-logo.png "MySQL") ![C++](https://img.icons8.com/color/50/4a90e2/c-plus-plus-logo.png "C++") 
+![HTML5](https://img.icons8.com/color/96/000000/html-5.png "HTML5") ![CSS3](https://img.icons8.com/color/96/000000/css3.png "CSS3") ![javascript](https://img.icons8.com/color/96/000000/javascript.png "Javascript")  ![reactjs](https://img.icons8.com/plasticine/100/000000/react.png "ReactJs")  ![python](https://img.icons8.com/color/96/000000/python.png "Python") ![MySQl](https://img.icons8.com/ios/100/4a90e2/mysql-logo.png "MySQL") ![C++](https://img.icons8.com/color/100/4a90e2/c-plus-plus-logo.png "C++") 
 
-###  I have experience in above technologies I haven't work in team yet but I would love to. I have made some basic projects till date to test and enhance my skills. And working on major prjects from now. 🖖
+###  I have experience in above technologies I haven't work in team yet but I would love to. I have made some basic projects till date to test and enhance my skills. And working on major projects now. 🖖
 
 
 ## About me 
