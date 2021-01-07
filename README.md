@@ -10,7 +10,7 @@
 
 
 ## About me 
-#### I am very curious person. I like to explore things I am getting started with CyberSecurity and Data Science. I come from Pune, India . I am undergrad in 3rd Year of Btech Computer Science Program. In free time I like to listen to music, while listening to music read about fellowships, research areas, technical blogs etc. I am learning German language along with my regular college. In free time I like to discuss idea's, think about new project idea's and help a friend. 
+#### I am very curious person. I like to explore things I am getting started with CyberSecurity and Data Science. I come from Pune, India . I am undergrad in 3rd Year of Btech Computer Science Program. In free time I like to listen to music, while listening to music read about fellowships, research areas, technical blogs, Cooking, And also I like to discuss idea's, think about new project idea's and help a friend with his project etc. I am learning German language along with my regular college.
 
 #### I have worked on Following Projects So far, Looking forward for more. If you have any idea Hit me up may be we can do it together.
 
