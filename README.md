@@ -16,3 +16,14 @@
 
 #### You can reach me at [chaudharimehul2001@gmail.com](mailTo:chaudharimehul2001@gmail.com) 
 
+
+
+Tell CMake where to find the compiler by setting either the environment
+  variable "CXX" or the CMake cache entry CMAKE_CXX_COMPILER to the full path
+  to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/mehul/mlpack-3.4.2/build/CMakeFiles/CMakeOutput.log".
+See also "/home/mehul/mlpack-3.4.2/build/CMakeFiles/CMakeError.log"
+
