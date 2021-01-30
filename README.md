@@ -24,6 +24,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mehul-chaudhari-3367b6174/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mehul-chaudhari-3367b6174/" height="30" width="40" /></a>
 </p>
 
-<a href="https://twitter.com/https://twitter.com/MehulKChaudhari" target="blank"><img align="center" src= "https://icons8.com/icon/5MQ0gPAYYx7a/twitter"  alt="https://twitter.com/MehulKChaudhari" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/MehulKChaudhari" target="blank"><img align="center" src= https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg  alt="https://twitter.com/MehulKChaudhari" height="30" width="40" /></a>
 </p>
 
