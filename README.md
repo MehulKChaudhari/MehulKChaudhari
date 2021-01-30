@@ -19,14 +19,16 @@
 ## 📫 Reach me:
 I am free to contribute. Do reach me out on following links. 
 <p align="left">
-<a href="https://twitter.com/MehulKChaudhari" target="_blank"><img height="30" src="https://img.icons8.com/fluent/96/000000/twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mehul-chaudhari-3367b6174/" target="_blank"><img height="30"  src="https://img.icons8.com/fluent/96/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/MehulKChaudhari" target="_blank"><img height="50" src="https://img.icons8.com/fluent/96/000000/twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mehul-chaudhari-3367b6174/" target="_blank"><img height="50"  src="https://img.icons8.com/fluent/96/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p><a href="https://mehul-chaudhari.netlify.app/">🌐 Check out my website</a></p>
-(New website under construction )
+### <p><a href="https://mehul-chaudhari.netlify.app/">🌐 Check out my website</a></p> 
+
+##### (New website under construction )
 
 <hr>
+
 ### 📕 My Blogs:
 <!-- BLOG-POST-LIST:START -->
 - [Algorithms-A Deep Dive🤯](https://blog.codestrike.in/algorithms-a-deep-dive)
@@ -38,6 +40,7 @@ I am free to contribute. Do reach me out on following links.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkchaudhari&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulkchaudhari&" alt="Mehul Kiran Chaudhari" /></p>
+
 
 
 
