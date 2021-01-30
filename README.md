@@ -16,6 +16,14 @@
 
 #### You can reach me at [chaudharimehul2001@gmail.com](mailTo:chaudharimehul2001@gmail.com) 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulkchaudhari&show_icons=true&locale=en" alt="Mehul Kiran Chaudhari" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulkchaudhari&" alt="Mehul Kiran Chaudhari" /></p>
 
+## Connect Me on.
+<a href="https://www.linkedin.com/in/mehul-chaudhari-3367b6174/" target="blank"><img align="center" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="https://www.linkedin.com/in/mehul-chaudhari-3367b6174/" height="30" width="40" /></a>
+</p>
+
+<a href="https://twitter.com/MehulKChaudhari" target="blank"><img align="center" src= "https://icons8.com/icon/5MQ0gPAYYx7a/twitter"  alt="https://twitter.com/MehulKChaudhari" height="30" width="40" /></a>
+</p>
 
