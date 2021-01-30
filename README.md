@@ -1,10 +1,11 @@
 # Sie da! 👋 I'm Mehul.
 
-** I love to code, Currently I am diving into Web Development world. **
+#### I love to code, Currently I am diving into DevOps and CyberSecurity world.
+## Tools and Technology 
 
-## Skills 
+![HTML5](https://img.icons8.com/color/96/000000/html-5.png "HTML5") ![CSS3](https://img.icons8.com/color/96/000000/css3.png "CSS3") ![javascript](https://img.icons8.com/color/96/000000/javascript.png "Javascript")  ![reactjs](https://img.icons8.com/plasticine/100/000000/react.png "ReactJs")  ![python](https://img.icons8.com/color/96/000000/python.png "Python") ![MySQl](https://img.icons8.com/ios/100/4a90e2/mysql-logo.png "MySQL") ![C++](https://img.icons8.com/color/100/4a90e2/c-plus-plus-logo.png "C++") ![Git](https://img.icons8.com/color/96/000000/git.png "Git")
+![VsCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"VsCode") ![Docker](https://img.icons8.com/color/96/000000/docker.png"Docker")
 
-![HTML5](https://img.icons8.com/color/96/000000/html-5.png "HTML5") ![CSS3](https://img.icons8.com/color/96/000000/css3.png "CSS3") ![javascript](https://img.icons8.com/color/96/000000/javascript.png "Javascript")  ![reactjs](https://img.icons8.com/plasticine/100/000000/react.png "ReactJs")  ![python](https://img.icons8.com/color/96/000000/python.png "Python") ![MySQl](https://img.icons8.com/ios/100/4a90e2/mysql-logo.png "MySQL") ![C++](https://img.icons8.com/color/100/4a90e2/c-plus-plus-logo.png "C++") 
 
 ###  I have experience in above technologies I haven't work in team yet but I would love to. I have made some basic projects till date to test and enhance my skills. And working on major projects now. 🖖
 
@@ -15,15 +16,25 @@
 #### I have worked on Following Projects So far, Looking forward for more. If you have any idea Hit me up may be we can do it together.
 
 #### You can reach me at [chaudharimehul2001@gmail.com](mailTo:chaudharimehul2001@gmail.com) 
+## 📫 Reach me:
+I am free to contribute. Do reach me out on following links. 
+<p align="center">
+<a href="https://twitter.com/MehulKChaudhari" target="_blank"><img height="30" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mehul-chaudhari-3367b6174/" target="_blank"><img height="30" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulkchaudhari&show_icons=true&locale=en" alt="Mehul Kiran Chaudhari" /></p>
+<p><a href="https://mehul-chaudhari.netlify.app/">🌐 Check out my website</a></p>
+(New website under construction )
+
+### 📕 My Blogs:
+<!-- BLOG-POST-LIST:START -->
+- [Algorithms-A Deep Dive🤯](https://blog.codestrike.in/algorithms-a-deep-dive)
+<!-- BLOG-POST-LIST:END -->
+
+![Mehul's github stats](https://github-readme-stats.vercel.app/api?username=mehulkchaudhari&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkchaudhari&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulkchaudhari&" alt="Mehul Kiran Chaudhari" /></p>
 
-## Connect Me on.
-<a href="https://www.linkedin.com/in/mehul-chaudhari-3367b6174/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mehul-chaudhari-3367b6174/" height="30" width="40" /></a>
-</p>
 
-<a href="https://twitter.com/MehulKChaudhari" target="blank"><img align="center" src= https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg  alt="https://twitter.com/MehulKChaudhari" height="30" width="40" /></a>
-</p>
 
