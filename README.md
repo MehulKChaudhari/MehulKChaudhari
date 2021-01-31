@@ -39,7 +39,6 @@ I am free to contribute. Do reach me out on following links.
 ![Mehul's github stats](https://github-readme-stats.vercel.app/api?username=mehulkchaudhari&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkchaudhari&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-
 <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulkchaudhari&theme=default" alt="Mehul Chaudhari" />
 
 
