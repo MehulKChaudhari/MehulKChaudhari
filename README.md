@@ -40,7 +40,9 @@ I am free to contribute. Do reach me out on following links.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulkchaudhari&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulkchaudhari&" alt="Mehul Chaudhari" /></p>
+<p>
+				<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulkchaudhari&theme=dark" alt="Mehul Chaudhari" />
+			</p>
 
 
 
