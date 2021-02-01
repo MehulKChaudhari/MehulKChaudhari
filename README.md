@@ -3,7 +3,7 @@
 #### I love to code, Currently I am diving into DevOps and CyberSecurity world.
 ## Tools and Technology 
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png "HTML5") ![CSS3](https://img.icons8.com/color/48/000000/css3.png "CSS3") ![javascript](https://img.icons8.com/color/48/000000/javascript.png "Javascript")  ![reactjs](https://img.icons8.com/plasticine/48/000000/react.png "ReactJs")  ![python](https://img.icons8.com/color/48/000000/python.png "Python") ![MySQl](https://img.icons8.com/ios/48/4a90e2/mysql-logo.png "MySQL") ![C++](https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png "C++") ![Git](https://img.icons8.com/color/96/000000/git.png "Git")
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png "HTML5") ![CSS3](https://img.icons8.com/color/48/000000/css3.png "CSS3") ![javascript](https://img.icons8.com/color/48/000000/javascript.png "Javascript")  ![reactjs](https://img.icons8.com/plasticine/48/000000/react.png "ReactJs")  ![python](https://img.icons8.com/color/48/000000/python.png "Python") ![MySQl](https://img.icons8.com/ios/48/4a90e2/mysql-logo.png "MySQL") ![C++](https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png "C++") ![Git](https://img.icons8.com/color/48/000000/git.png "Git")
 ![VsCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png "VsCode") ![Docker](https://img.icons8.com/color/48/000000/docker.png "Docker")
 <hr>
 
