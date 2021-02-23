@@ -1,19 +1,19 @@
 # Sie da! 👋 I'm Mehul.
 
 #### I love to code, Currently I am diving into DevOps and CyberSecurity world.
+
 ## Tools and Technology 
+
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png "HTML5") ![CSS3](https://img.icons8.com/color/48/000000/css3.png "CSS3") ![javascript](https://img.icons8.com/color/48/000000/javascript.png "Javascript")  ![reactjs](https://img.icons8.com/plasticine/48/000000/react.png "ReactJs")  ![python](https://img.icons8.com/color/48/000000/python.png "Python") ![MySQl](https://img.icons8.com/ios/48/4a90e2/mysql-logo.png "MySQL") ![C++](https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png "C++") ![Git](https://img.icons8.com/color/48/000000/git.png "Git")
 ![VsCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png "VsCode") ![Docker](https://img.icons8.com/color/48/000000/docker.png "Docker")
 <hr>
 
-###  I have experience in above technologies I haven't work in team yet but I would love to. I have made some basic projects till date to test and enhance my skills. And Looking for major projects now. 🖖
-
 
 ## About me 
-#### I am very curious person. I like to explore things I am learning CyberSecurity and DevOps. I come from Pune, India . I am undergrad in 3rd Year of Btech Computer Science Program. In free time I like to listen to music, while listening to music read about fellowships, research areas, technical blogs, Cooking, And also I like to discuss idea's, think about new project idea's and help a friend with his project etc. I am learning German language along with my regular college.
+#### I am very curious person. I like to explore things I am learning CyberSecurity and DevOps. I come from Pune, India . I am undergrad in 3rd Year of Btech Computer Science Program. I like to listen to music, while listening to music read about fellowships, research areas, technical blogs, Cooking, And also I like to discuss idea's, think about new project idea's and help a friend with his project etc. I am learning German language along with my regular college.
 
-#### I have worked on Following Projects So far, Looking forward for more. If you have any idea Hit me up may be we can do it together.
+#### Open For contributions.
 
 #### You can reach me at [chaudharimehul2001@gmail.com](mailTo:chaudharimehul2001@gmail.com) 
 ## 📫 Reach me:
