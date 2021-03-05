@@ -11,7 +11,6 @@
 
 #### You can reach me at [chaudharimehul2001@gmail.com](mailTo:chaudharimehul2001@gmail.com) 
 ## 📫 Reach me:
-I am free to contribute. Do reach me out on following links. 
 <p align="left">
 <a href="https://twitter.com/MehulKChaudhari" target="_blank"><img height="50" src="https://img.icons8.com/fluent/96/000000/twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mehul-chaudhari-3367b6174/" target="_blank"><img height="50"  src="https://img.icons8.com/fluent/96/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
